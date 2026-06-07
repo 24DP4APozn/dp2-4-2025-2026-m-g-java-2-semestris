@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<courses>
+    <course id="1">
+        <name>Java Programming</name>
+        <description>Basic Java programming course</description>
+        <teacher>Vadims Malickis</teacher>
+        <duration>40</duration>
+        <studentCount>24</studentCount>
+        <level>beginner</level>
+    </course>
+
+    <course id="2">
+        <name>Database Basics</name>
+        <description>Introduction to SQL and databases</description>
+        <teacher>Anna Berzina</teacher>
+        <duration>32</duration>
+        <studentCount>18</studentCount>
+        <level>intermediate</level>
+    </course>
+
+    <course id="3">
+        <name>Web Development</name>
+        <description>HTML, CSS and JavaScript basics</description>
+        <teacher>Janis Kalnins</teacher>
+        <duration>36</duration>
+        <studentCount>21</studentCount>
+        <level>beginner</level>
+    </course>
+</courses>
